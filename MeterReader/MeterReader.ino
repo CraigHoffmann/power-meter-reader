@@ -1,3 +1,5 @@
+// Electricty Meter Reader by Craig Hoffmann
+// -----------------------------------------
 // Monitor the house electricity meter
 // 400 rotations every kW - therefore one trigger = 2.5W consumed
 // Use a Wemos D1 mini  Pin D5 (GPIO14) is used for the trigger count
