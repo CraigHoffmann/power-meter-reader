@@ -7,3 +7,7 @@ Uses MQTT for communication with "home assistant"
 Setup | Sensor
 :----------:|:----------:
 ![metersetup](https://github.com/CraigHoffmann/power-meter-reader/blob/master/Images/metersetup.jpg?raw=true) | ![sensor](https://github.com/CraigHoffmann/power-meter-reader/blob/master/Images/sensor.jpg?raw=true)
+
+The light sensor feeds into a schmidt trigger level sense circuit which creates digital pulses that the micro counts and uses to track power useage.
+
+![circuit](https://github.com/CraigHoffmann/power-meter-reader/blob/master/circuit.png?raw=true)
